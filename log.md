@@ -1,4 +1,4 @@
-# 100DaysofCode.
+# 100 Days of Code - Log
 
 ### Day 1: May 9, 2022
 
