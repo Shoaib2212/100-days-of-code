@@ -17,3 +17,9 @@
 **Today's Progress:** Completed 35% Basic HTML & HTML5
 
 **Thoughts:** Earlier it's was looking lil scary but now i'm confident.
+
+### Day 4: May 12, 2022
+
+**Todays Progress:** Learn and Practice LInks: Internal and External.
+
+**Thoughts:** Dealing with links got lil bit tough today.
