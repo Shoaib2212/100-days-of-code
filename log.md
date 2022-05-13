@@ -23,3 +23,10 @@
 **Todays Progress:** Learn and Practice LInks: Internal and External.
 
 **Thoughts:** Dealing with links got lil bit tough today.
+
+### Day 5: May 13, 2022
+
+**Today's Progress:** Completed 70% HTML on Freecodecamp. Learn how to create a Submit Button
+
+**Thoughts:** I am able to learn most HTML code now.
+
