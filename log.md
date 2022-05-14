@@ -4,7 +4,7 @@
 
 **Today's Progress:** Done with learning some markdown tags to add better logs of my challenge to GitHub repo, heading to the basic of HTML5 from now.
 
-**Thoughts:** I'm from non-IT background. Don't know coding's C also but will try my best to wrap inside.
+**Thoughts:** I'm from non-IT background. Don't know coding's C also but will try my best to wrap Coding..
 
 ### Day 2: May 10, 2022
 
