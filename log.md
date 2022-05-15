@@ -40,3 +40,14 @@
 
 **Thoughts:** Learn amd Practice input, Button and much more today.
 
+
+### Day 7: 15 May, 2022
+
+**Today's Progress:** Started Basic CSS Today.
+
+
+
+
+
+
+
