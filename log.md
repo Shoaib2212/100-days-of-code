@@ -46,6 +46,67 @@
 **Today's Progress:** Started Basic CSS Today.
 
 
+### Day 8: 16 May, 2022
+
+**Today's Progress:** Learn Today: CSS Style, Color, Font & Sizes.
+
+**Thoughts:** Your attitude is like a box of crayons that color your websites.
+
+
+### Day 9: May 17, 2022
+
+**Today's Progress:** Hangs out with some more CSS Basics today.
+
+
+### Day 10: May 18, 2022
+
+
+
+**Today's Progress:** Completed Basic CSS 18%.
+
+
+### Day 11: May 19, 2022
+
+**Today's Progress:** Learned Some mire Basic CSS and conpleted 41%.
+
+
+### Day 12: May 20, 2022
+
+**Today's Progress:** Completed Basic CSS 65%. Practicing override now.
+
+
+### Day 13: May 21, 2022
+
+**Today's Progress:** Completed Basic CSS 85%.
+
+**Thoughts:** Learned more about colors...HEX, HSL/HSLA, RGB/RGBA.
+
+
+### Day 14: May 22, 2022
+
+**Today's Progress:** Completed Basic CSS...And now Started Applied_Visual_Design.
+
+**Thoughts:** Visual Design is a combination of typography, color theory, graphics, animations
+ and more to help deliver your unique message.
+ 
+ 
+ ### Day 15: May 23, 2022
+ 
+ **Today's Progress:** Learned how to adjust position of an element in CSS. Positions: absolute, relative, fixed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
