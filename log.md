@@ -6,6 +6,7 @@
 
 **Thoughts:** I'm from non-IT background. Don't know coding's C also but will try my best to wrap Coding..
 
+
 ### Day 2: May 10, 2022
 
 **Today's Progress:** Warming up with some HTML tags from w3schools - getting ready to start my journey with freeCodeCamp
@@ -60,8 +61,6 @@
 
 ### Day 10: May 18, 2022
 
-
-
 **Today's Progress:** Completed Basic CSS 18%.
 
 
@@ -95,7 +94,39 @@
  **Today's Progress:** Learned how to adjust position of an element in CSS. Positions: absolute, relative, fixed.
 
 
+### Day 16: May 24, 2022
 
+**Today's Progress:** Practice some adjustment of hue/tone.
+
+### Day 17: May 25, 2022
+
+**Today's Progress:** Completed basic CSS 70%.
+
+**Thoughts:** Today i understand what is linear gradient, converting gradient to striped element. Also i created texture and uses scale property like skewX skewY.
+
+
+### Day 18: 26, 2022
+
+**Today's Progress:** Learned today: create graphics using CSS, Crescent moon, @keyframes and animation properties.
+
+
+### Day 19: 27, 2022
+
+**Today's Progress:** Completed another part of Responsive Web Designing: Applied Visual Design.
+
+**Progress:** Learn much more about Graphics.
+
+
+### Day 20: May 28, 2022
+
+**Today's Progress:** Started another part of RWD: Applied Accessibility. This help peoples with visual, auditory, mobility, disabilities.
+
+
+### Day 21: May 29, 2022
+
+**Today's Progress:** Completed Applied Accessibility so far.
+
+**Thoughts:** CSS really care people having visual and aduio problem.
 
 
 
