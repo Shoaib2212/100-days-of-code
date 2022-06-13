@@ -129,7 +129,30 @@
 **Thoughts:** CSS really care people having visual and aduio problem.
 
 
+### Day 22: May 30, 2022
 
+**Today's Progress:** Learned today: make an image responsive, use a retina image for higher, resolution displays, make typography reponsive.
+
+
+### Day 23: May 31, 2022
+
+**Today's Progress:**  Done CSS flex.
+
+**Thoughts:** Flex is a powerful layout method that was introduced with the latest version of CSS n CSS3.
+
+
+### Day 24: June 01, 2022
+
+**Today's Progress:** Started CSS grid.
+
+**Thoughts:** it's a newer standard that make it easy to build complex responsive layout.
+
+
+### Day 25: June 02, 2022
+
+**Today's Progress:** Completd basic HTML CSS. Heading toward javascript. And will continue practicing 0  
+
+**Thoughts:** 
 
 
 
